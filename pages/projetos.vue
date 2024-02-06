@@ -49,7 +49,7 @@ useHead({
 const projects = [
    {
         name: 'Clubvida - Websis Tecnologia e Sistemas',
-        description: 'É um sistema de prontuário eletrônico do paciente em nuvem que permite a melhoria dos processos da gestão clínica ou do profissional de saúde autônomo.',
+        description: 'Desenvolvendo novas funcionalidades e atualizando funcionalidades existentes.',
         img: '/img/clubvida.png',
         tags: [
             'PHP 7.3',
@@ -65,7 +65,7 @@ const projects = [
     },
     {
         name: 'Avalienap - Websis Tecnologia e Sistemas - ENAP',
-        description: 'Sistema de avaliação dos servidores da ENAP, criado para avaliação interna.',
+        description: 'Realização de correções de erros e implementação de novas funcionalidades conforme as solicitações do cliente.',
         img: '/img/logotipo_avalia.png',
         tags: [
             'PHP 5.3.3',
@@ -81,7 +81,7 @@ const projects = [
     },
     {
         name: 'Portal de Competências - Websis Tecnologia e Sistemas - ENAP',
-        description: 'Trabalhei no desenvolvimento deste sistema, era uma necessidade do cliente de mapear e gerir as competências dos recursos da ENAP.',
+        description: 'Arquiteto e desenvolvedor, criei um sistema para atender às necessidades do cliente ao mapear recursos.',
         img: '/img/cer.png',
         tags: [
             'PHP 7',
@@ -95,7 +95,7 @@ const projects = [
     },
     {
         name: 'Trampay - Freelancer',
-        description: 'A plataforma que entrega suporte, amparo e cobre todas as necessidades de quem trampa de verdade.',
+        description: 'Desenvolvendo novas funcionalidades e atualizando funcionalidades existentes.',
         img: '/img/trampay-vertical.png',
         tags: [
             'Node.js',
@@ -107,7 +107,7 @@ const projects = [
     },
     {
         name: 'Banco Afro - Freelancer',
-        description: 'Carteira digital.',
+        description: 'Desenvolvendo novas funcionalidades e atualizando funcionalidades existentes.',
         img: '/img/bancoafro_logo.webp',
         tags: [
             'Node.js',
