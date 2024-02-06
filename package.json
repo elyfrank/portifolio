@@ -8,7 +8,8 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "eslint:fix": "eslint --fix ."
+    "eslint:fix": "eslint --fix .",
+    "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
     "@mdi/font": "^7.4.47",

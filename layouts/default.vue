@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-layout class="rounded rounded-md">
-      <v-navigation-drawer color="blue-grey-lighten-5" permanent>
+      <v-navigation-drawer color="blue-grey-lighten-5" :permanent="!mdAndDown">
         <v-card variant="text">
           <v-card-text class="text-center">
             <v-avatar size="xl">
@@ -50,4 +50,7 @@
 
 </style>
 <script setup lang="ts">
+import { useDisplay } from 'vuetify/lib/framework.mjs'
+
+const { mdAndDown } = useDisplay()
 </script>
