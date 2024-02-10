@@ -65,14 +65,6 @@ const toggleMenu = () => {
   drawer.value = !drawer.value
 }
 
-const miniVariant = ref(false)
-const drawerMini = ref(false)
-
-if (mdAndDown) {
-  miniVariant.value = true
-  drawerMini.value = true
-}
-
 const downloadFile = () => {
 
   const fileUrl = '/cv/cv.pdf';
